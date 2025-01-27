@@ -1,11 +1,11 @@
-## Hello, I'm Richart 👋🏻
+## Hello, I'm Richard 👋🏻
 
-### A little about me
+### A brief introduction
 
-### What I'm up to and where I'd like to be
+### Current shenanigans and future goals
 
 ### In my free time
 
-![Codewars](https://www.codewars.com/users/richardlambert/badges/large)
+![Codewars](https://www.codewars.com/users/richardlambert/badges/small)
 
-I spend an morally questionable amount of time in the Codewars trough of disenchantment.
+Codewars - Where every aspiring developer spends a morally questionable amount of time wrestling with [conscious incompetence](https://en.wikipedia.org/wiki/Four_stages_of_competence) 🙌🏻.
