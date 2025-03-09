@@ -18,4 +18,4 @@ I'm a student at [Northcoders](https://northcoders.com) studying full-stack web 
 
 - #### Personal Projects
 
-  I always like to have a personal coding project cooking where I can apply what I'm learning and try new things. I'm currently working on an app called [ais-tracker](https://github.com/richardIambert/ais-tracker)   that tracks real-time ship movements.
+  I always like to have a personal coding project cooking where I can apply what I'm learning and try new things. I'm currently working on [ais-tracker](https://github.com/richardIambert/ais-tracker), a web app that tracks real-time ship movements.
