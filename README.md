@@ -1,21 +1,21 @@
 # Hello, I'm Richard 👋🏻
 
-## A brief introduction
+### A Brief Introduction
 
-I'm an ex-Royal Navy Submariner currently enjoying a period of up/reskilling in the crazy world of software development.
+I'm a Royal Navy veteran looking to swap submarines for software development.
 
-## Current shenanigans and future goals
+### Current Shenanigans
 
 I'm a student at [Northcoders](https://northcoders.com) studying full-stack web development.
 
-## In my free time
+### In My Free Time
 
-### Codewars
+- #### Codewars
 
-![Codewars](https://www.codewars.com/users/richardlambert/badges/small)
+  ![Codewars](https://www.codewars.com/users/richardlambert/badges/small)
 
-A morally questionable amount of time is spent here wrestling with my [conscious incompetence](https://en.wikipedia.org/wiki/Four_stages_of_competence) 🙌🏻👀.
+  A morally questionable amount of time is spent here wrestling with my [conscious incompetence](https://en.wikipedia.org/wiki/Four_stages_of_competence) 🙌🏻👀.
 
-### Personal projects
+- #### Personal Projects
 
-I always like to have a personal coding project cooking where I can apply what I'm learning and try new things. I'm currently working on an app called [ais-tracker](https://github.com/richardIambert/ais-tracker).
+  I always like to have a personal coding project cooking where I can apply what I'm learning and try new things. I'm currently working on an app called [ais-tracker](https://github.com/richardIambert/ais-tracker)   that tracks real-time ship movements.
