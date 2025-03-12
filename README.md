@@ -6,7 +6,7 @@ I'm a Royal Navy veteran looking to swap submarines for software development.
 
 ### Current Shenanigans
 
-I'm a student at [Northcoders](https://northcoders.com) studying full-stack web development.
+I'm a student at [Northcoders](https://northcoders.com) studying full-stack software development.
 
 ### In My Free Time
 
