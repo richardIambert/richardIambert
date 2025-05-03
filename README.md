@@ -1,21 +1,15 @@
-# Hello, I'm Richard 👋🏻
+# Hello, I'm Rich 👋🏻
 
-### A Brief Introduction
+## A Brief Introduction
 
-I'm a Royal Navy veteran looking to swap submarines for software development.
+Royal Navy veteran trading submarines for software—ready to dive into tech!
 
-### Current Shenanigans
+## Current Shenanigans
 
-I'm a student at [Northcoders](https://northcoders.com) studying full-stack software development.
+I'm currently learning all things code at [Northcoders](https://northcoders.com), while also juggling my role as a software development intern at [Pipin](https://www.pipin.app/). It’s a daily adventure of debugging, caffeine, and the occasional ‘how did this even work?’ moment—but I’m loving every second!
 
-### In My Free Time
+## In My Free Time
 
-- #### Codewars
+I have a dog—she’s completely bonkers and thinks everything’s a sheep that needs herding! I can’t exactly say I enjoy her daily game of “you chase me, while I chase that thing I definitely shouldn’t be chasing,” but hey, my cardio’s definitely getting a solid upgrade.
 
-  ![Codewars](https://www.codewars.com/users/richardlambert/badges/small)
 
-  A morally questionable amount of time is spent here wrestling with my [conscious incompetence](https://en.wikipedia.org/wiki/Four_stages_of_competence) 🙌🏻👀.
-
-- #### Personal Projects
-
-  I always like to have a personal coding project cooking where I can apply what I'm learning and try new things. I'm currently working on [ais-tracker](https://github.com/richardIambert/ais-tracker), a web app that tracks real-time ship movements.
